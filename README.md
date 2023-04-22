@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🚀About Me:
 A proven track record of producing top-notch mobile applications utilizing a variety of tools and technologies as an iOS Engineer. Among the things I am familiar with are Swift, iOS frameworks, and third-party libraries.
 In my most recent position at Globant, I was instrumental in developing the Express AppStore's payment methods section as well as in creating and launching three reusable modules for Citibank's AppStore. To ensure efficient and automated build, testing, and deployment procedures, I was also in charge of building up and administering Continuous Integration and Continuous Deployment pipelines using Jenkins. I know about containerization using Docker, which enables scalable and effective software system deployment.
 I obtained experience as a Full Stack Developer Intern at Universal Scientific Industrial before working at Globant, where I worked on a project to migrate the SQL environment database to a rebuilt framework web pages to save resources and enhance the user interface. I also started a website platform for project managers to arrange meetings and organize their schedules.
