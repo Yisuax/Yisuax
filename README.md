@@ -7,7 +7,7 @@ As part of my thesis project for my degree in Software Engineering from the Univ
 As a driven and detail-oriented developer, I have experience in iOS programming, Continuous Integration/Deployment, and Full Stack programming. If you are looking for an experienced and motivated Software Engineer to join your team, please contact me so that we can discuss the options.
 
 # Step by Step:
-🦸 https://lnkd.in/gpp9Yvtg
+🦸 Building our First App in iOS https://lnkd.in/gpp9Yvtg
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jesusjimvaz/) 
